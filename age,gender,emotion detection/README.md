@@ -1,5 +1,7 @@
 ### Age, Emotion and Gender detection using Opencv.
 
+Objective is to detect the age, emotion and gender of the person captured from the camera using OpenCV.
+
 Models used are:
 
 ##### Face detection: 
